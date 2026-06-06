@@ -7,3 +7,5 @@ export const CATEGORIES: Category[] = [
     { title: 'Выпечка и Сладости', id: 'bakery' },
     { title: 'Напитки', id: 'beverages' }
 ];
+
+export const PLACEHOLDER_IMAGE = 'https://swmhhs.com/wp-content/uploads/bb-plugin/cache/placeholder-portrait-24ad207fc0543afc3eece959c710b316-.jpg';
